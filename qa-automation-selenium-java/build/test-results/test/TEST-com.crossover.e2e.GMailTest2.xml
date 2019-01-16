@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crossover.e2e.GMailTest2" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-15T15:32:12" hostname="DESKTOP-FQMLFPA" time="139.032">
+  <properties/>
+  <testcase name="testSendEmail" classname="com.crossover.e2e.GMailTest2" time="139.032"/>
+  <system-out><![CDATA[me
+Automation Test
+ - 
+This mail come by automation script for testing purpose.
+  9:03 PM
+null
+tr
+(256, 209)
+me
+Marked Mail as Stared
+Click on Mail
+Hover performed with second locater[[ChromeDriver: chrome on XP (50e17699e0f9146955e831846da6aac5)] -> xpath: (//div[@title='Labels'])[2]]
+Click on Label
+[[ChromeDriver: chrome on XP (50e17699e0f9146955e831846da6aac5)] -> xpath: //div[@aria-label='Labels']]
+Click on Label
+true
+This mail is labeled as 'Social'[[ChromeDriver: chrome on XP (50e17699e0f9146955e831846da6aac5)] -> xpath: //div[@title='Social']]
+[[ChromeDriver: chrome on XP (50e17699e0f9146955e831846da6aac5)] -> xpath: //div[@aria-label='Labels']]
+Click on Label after validation of social checkbox
+Automation Test
+This mail come by automation script for testing purpose. 
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387) on port 57040
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
